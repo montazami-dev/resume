@@ -1,0 +1,10 @@
+@font-face {
+    font-family:"resume_font";
+    src: url(fonts/woff/IRANSansXFaNum-Medium.woff);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+body{
+    font-family: "resume_font";
+}
