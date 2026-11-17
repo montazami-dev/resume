@@ -186,7 +186,7 @@ include('header.php')
 
             <div class='grid grid-cols-1 sm:grid-cols-2 gap-4 w-full'>
                 
-                <div class='group relative bg-inherit rounded-2xl p-6 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-[var(--color-primary-3rd)]/5 border border-[var(--color-border)] hover:border-[var(--color-primary-3rd)]/30 overflow-hidden'>
+                <!-- <div class='group relative bg-inherit rounded-2xl p-6 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-[var(--color-primary-3rd)]/5 border border-[var(--color-border)] hover:border-[var(--color-primary-3rd)]/30 overflow-hidden'>
                     
                     <div class='absolute inset-0 bg-gradient-to-br from-[var(--color-primary-3rd)]/5 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-700'></div>
                     <div class='absolute -right-10 -top-10 w-32 h-32 rounded-full bg-[var(--color-primary-3rd)]/5 blur-2xl group-hover:scale-150 transition-all duration-1000'></div>
@@ -217,7 +217,7 @@ include('header.php')
                     </p>
 
                     <div class='absolute bottom-0 left-0 right-0 h-[2px] bg-gradient-to-r from-[var(--color-primary-3rd)]/0 via-[var(--color-primary-3rd)]/20 to-[var(--color-primary-3rd)]/0 scale-x-0 group-hover:scale-x-100 transition-all duration-700'></div>
-                </div>
+                </div> -->
 
                 <div class='group relative bg-inherit rounded-2xl p-6 transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-[var(--color-primary-3rd)]/5 border border-[var(--color-border)] hover:border-[var(--color-primary-3rd)]/30 overflow-hidden'>
                     
